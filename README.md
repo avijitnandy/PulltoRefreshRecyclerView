@@ -7,5 +7,5 @@
 ## On Swip, Recycler items will be shuffled.
 
 
-[[https://github.com/avijitnandy/repository/PulltoRefreshRecyclerView/output.gif|alt=octocat]]
+[[https://github.com/avijitnandy/PulltoRefreshRecyclerView/output.gif|alt=octocat]]
  
