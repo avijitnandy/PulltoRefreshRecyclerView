@@ -9,6 +9,5 @@
 
 <p align="center">
   <img src="https://github.com/avijitnandy/PulltoRefreshRecyclerView/blob/master/output.gif" width="350"/>
-  <img src="https://github.com/avijitnandy/PulltoRefreshRecyclerView/blob/master/output.gif" width="350"/>
 </p>
  
